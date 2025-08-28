@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+
 
 ## Getting Started
 
@@ -14,23 +14,64 @@ pnpm dev
 bun dev
 ```
 
+## Link
+
+```bash
+https://expense-tracker-git-main-pranabtiwaris-projects.vercel.app/
+
+```
+
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
 You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
 
 This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
-## Learn More
+🔹 Project: AI-Powered Expense Tracker
+📌 Overview
 
-To learn more about Next.js, take a look at the following resources:
+This project is a smart expense tracking web application built with Next.js and TypeScript, designed to help users manage their finances more effectively. Unlike traditional expense trackers, this application integrates AI-powered insights and recommendations, enabling users to not only record and view their expenses but also gain meaningful analysis to improve financial habits.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+🚀 Features
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+User Authentication – Secure sign-up and login to keep personal financial data protected.
 
-## Deploy on Vercel
+Expense Recording & Management – Add, edit, and delete expenses with categorized tracking.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+Interactive Visualizations – Dynamic charts and graphs to visualize spending patterns over time.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+AI Insights & Suggestions – Intelligent analysis of spending habits with tailored suggestions (e.g., budget optimization, expense reduction tips).
+
+Modern UI/UX – Clean, responsive interface designed with a focus on usability and accessibility.
+
+Data Persistence – All data is stored and managed efficiently for consistent access across sessions.
+
+🛠 Tech Stack
+
+Frontend: Next.js (React), TypeScript, Tailwind CSS
+
+Backend: Next.js API routes / Node.js
+
+Database: (MongoDB / PostgreSQL / MySQL – whichever you used)
+
+AI Integration: OpenAI API (or Gemini, depending on what you used) for analyzing expenses and generating suggestions
+
+Authentication: JWT / NextAuth.js (if used)
+
+🤖 AI Capabilities
+
+Classifies expenses into categories automatically.
+
+Provides personalized spending insights (e.g., detecting overspending trends).
+
+Suggests actionable improvements for better financial management and savings.
+
+📊 Impact
+
+This project helps users:
+
+Stay aware of where their money is going.
+
+Identify spending leaks and opportunities to save.
+
+Build better financial habits with AI-driven recommendations.
